@@ -41,9 +41,8 @@ Arduino • ESP8266 • ESP32
 
 
 ### 🔹 StudySpotVIT
-IoT-based library seat monitoring system (Patent Published)  
+IoT-based library seat Recommadation system (Patent Filed)  
 **Stack:** Android, Firebase, ESP32  
-
 
 ---
 
@@ -57,5 +56,5 @@ IoT-based library seat monitoring system (Patent Published)
 
 🌐 Portfolio: 
 💼 LinkedIn: https://www.linkedin.com/in/mohammed-aaquil-a-a7503528b/
-💻 GitHub: https://github.com/Mohammed Aaquil A
+💻 GitHub: https://github.com/AAQUIL-16/Mohammed-Aaquil-A
 ✉️ Email: mohammedaaquil07@gmail.com
