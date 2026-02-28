@@ -11,7 +11,7 @@
 📄 Patent Work: 1 Published | 2 Filed  
 💡 Interests: Full-Stack Development, Android, IoT Systems, Computer Vision  
 
-📫 **Email:** mohammedaaquil1607@gmail.com
+📫 **Email:** mohammedaaquil07@gmail.com
 
 ---
 
