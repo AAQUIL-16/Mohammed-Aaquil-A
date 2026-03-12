@@ -45,8 +45,7 @@ Smart Library Seat Recommendation System Using IoT (Patent Filed)
 ---
 
 ## 🔗 Connect With Me
-
-🌐 Portfolio:
-💼 LinkedIn: https://www.linkedin.com/in/mohammed-aaquil-a-a7503528b/
-💻 GitHub: https://github.com/AAQUIL-16/Mohammed-Aaquil-A
+🌐 Portfolio: <br>
+💼 LinkedIn: https://www.linkedin.com/in/mohammed-aaquil-a-a7503528b/ <br>
+💻 GitHub: https://github.com/AAQUIL-16/Mohammed-Aaquil-A <br>
 ✉️ Email: mohammedaaquil07@gmail.com
