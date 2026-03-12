@@ -17,24 +17,15 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-Java • JavaScript • C • C++
-
-### 🌐 Frontend & Mobile
-React • HTML/CSS • Android (Java/XML)
-
-### ⚙️ Backend & Databases
-Spring Boot • MySQL • Oracle SQL • Firebase
-
-### 🤖 ML / DL
-CNN
-
-### 🔌 IoT & Embedded
-Arduino • ESP8266 • ESP32 
-
-### 🚀 Tools & DevOps
-• Git • GitHub Actions • Postman
-
+Languages: Java, JavaScript, C, C++, Python
+Web Development: HTML, CSS, React, Spring Boot
+Mobile: Android Development (Java, XML)
+Databases: MySQL, Oracle SQL, Firebase Realtime DB
+Machine Learning: Supervised & Unsupervised Learning, CNN
+Embedded / IoT: Arduino Uno, ESP8266, ESP32
+Cloud Platforms: AWS, Microsoft Azure
+Tools: Git, GitHub, GitHub Actions, Postman
+Soft Skills: Communication, Teamwork, Problem Solving, Adaptability, Leadership, Time Management.
 ---
 
 ## 📌 Selected Projects
