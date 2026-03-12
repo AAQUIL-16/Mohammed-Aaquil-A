@@ -15,17 +15,18 @@
 
 ---
 
-## 🛠️ Tech Stack
+Technical Skills
 
-Languages: Java, JavaScript, C, C++, Python
-Web Development: HTML, CSS, React, Spring Boot
-Mobile: Android Development (Java, XML)
-Databases: MySQL, Oracle SQL, Firebase Realtime DB
-Machine Learning: Supervised & Unsupervised Learning, CNN
-Embedded / IoT: Arduino Uno, ESP8266, ESP32
-Cloud Platforms: AWS, Microsoft Azure
-Tools: Git, GitHub, GitHub Actions, Postman
-Soft Skills: Communication, Teamwork, Problem Solving, Adaptability, Leadership, Time Management.
+Languages: Java, JavaScript, C, C++, Python  
+Web Development: HTML, CSS, React, Spring Boot  
+Mobile Development: Android Development (Java, XML)  
+Databases: MySQL, Oracle SQL, Firebase Realtime DB  
+Machine Learning: Supervised & Unsupervised Learning, CNN  
+Embedded / IoT: Arduino Uno, ESP8266, ESP32  
+Cloud Platforms: AWS, Microsoft Azure  
+Tools: Git, GitHub, GitHub Actions, Postman  
+Soft Skills: Communication, Teamwork, Problem Solving, Adaptability, Leadership, Time Management
+
 ---
 
 ## 📌 Selected Projects
