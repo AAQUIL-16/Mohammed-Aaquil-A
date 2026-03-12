@@ -15,7 +15,7 @@
 
 ---
 
-Technical Skills
+## 🛠️ Technical Skills
 
 Languages: Java, JavaScript, C, C++, Python  
 Web Development: HTML, CSS, React, Spring Boot  
