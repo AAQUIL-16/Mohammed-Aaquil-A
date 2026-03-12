@@ -41,15 +41,15 @@ Arduino • ESP8266 • ESP32
 
 
 ### 🔹 StudySpotVIT
-IoT-based library seat Recommadation system (Patent Filed)  
-**Stack:** Android, Firebase, ESP32  
+Smart Library Seat Recommendation System Using IoT (Patent Filed)  
+**Stack:** Android Studio, Java, Embedded C, Firebase, ESP32, Git.
 
 ---
 
 ## 📜 Patent Work
 
+- StudySpotVIT-Smart Library Seat Recommendation System Using IoT (Patent Filed)  
 - Biometric Trust-Based System for Secure Operation of Projection Devices - **Published**
-
 ---
 
 ## 🔗 Connect With Me
