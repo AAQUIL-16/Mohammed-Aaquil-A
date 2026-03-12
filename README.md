@@ -9,7 +9,7 @@
 🔬 Working on research:
 📚 Exploring: Spring Boot, Android Internals  
 📄 Patent Work: 1 Published | 2 Filed  
-💡 Interests: Full-Stack Development, Android, IoT Systems, Computer Vision  
+💡 Interests: Full-Stack Development, Android, IoT Systems
 
 📫 **Email:** mohammedaaquil07@gmail.com
 
