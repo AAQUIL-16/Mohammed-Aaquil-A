@@ -7,7 +7,7 @@
 
 🎓 M.Tech Integrated Software Engineering student at VIT Vellore  
 📚 Exploring: Spring Boot, Android Internals  
-📄 Patent Work: 2 Published 
+📄 Patent Work: 2 Published <br>
 💡 Interests: Full-Stack Development, Android, IoT Systems
 
 📫 **Email:** mohammedaaquil07@gmail.com
