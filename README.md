@@ -6,9 +6,8 @@
 ## 👨‍💻 About Me
 
 🎓 M.Tech Integrated Software Engineering student at VIT Vellore  
-🔬 Working on research:
 📚 Exploring: Spring Boot, Android Internals  
-📄 Patent Work: 1 Published | 2 Filed  
+📄 Patent Work: 2 Published 
 💡 Interests: Full-Stack Development, Android, IoT Systems
 
 📫 **Email:** mohammedaaquil07@gmail.com
@@ -40,7 +39,7 @@ Smart Library Seat Recommendation System Using IoT (Patent Filed)
 
 ## 📜 Patent Work
 
-- StudySpotVIT-Smart Library Seat Recommendation System Using IoT (Patent Filed)  
+- StudySpotVIT-Smart Library Seat Recommendation System Using IoT -- **Published** 
 - Biometric Trust-Based System for Secure Operation of Projection Devices - **Published**
 ---
 
