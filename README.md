@@ -16,15 +16,15 @@
 
 ## 🛠️ Technical Skills
 
-Languages: Java, JavaScript, C, C++, Python  
-Web Development: HTML, CSS, React, Spring Boot  
-Mobile Development: Android Development (Java, XML)  
-Databases: MySQL, Oracle SQL, Firebase Realtime DB  
-Machine Learning: Supervised & Unsupervised Learning, CNN  
-Embedded / IoT: Arduino Uno, ESP8266, ESP32  
-Cloud Platforms: AWS, Microsoft Azure  
-Tools: Git, GitHub, GitHub Actions, Postman  
-Soft Skills: Communication, Teamwork, Problem Solving, Adaptability, Leadership, Time Management
+Languages: Java, JavaScript, C, C++, Python
+Web Development: HTML, CSS, React, Spring Boot, Flask
+Mobile: Android Development (Java, XML)
+Databases: MySQL, Oracle SQL, Firebase Realtime DB
+ML/DL: Supervised & Unsupervised Learning, CNN
+Embedded/IoT: Arduino Uno, ESP8266, ESP32
+Cloud Platforms: AWS, Microsoft Azure
+DevOps & Version Control: Docker, Git, GitHub, GitHub Actions, Postman, Devops
+Soft Skills: Communication, Teamwork, Problem Solving, Adaptability, Leadership, Time Management.
 
 ---
 
@@ -44,7 +44,7 @@ Smart Library Seat Recommendation System Using IoT (Patent Filed)
 ---
 
 ## 🔗 Connect With Me
-🌐 Portfolio: <br>
+🌐 Portfolio: https://aaquil-16.github.io/Mohammed-Aaquil-A-Portfolio-/ <br>
 💼 LinkedIn: https://www.linkedin.com/in/mohammed-aaquil-a-a7503528b/ <br>
 💻 GitHub: https://github.com/AAQUIL-16/Mohammed-Aaquil-A <br>
 ✉️ Email: mohammedaaquil07@gmail.com
