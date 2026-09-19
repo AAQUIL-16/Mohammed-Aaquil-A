@@ -32,14 +32,14 @@ Soft Skills: Communication, Teamwork, Problem Solving, Adaptability, Leadership,
 
 
 ### 🔹 StudySpotVIT
-Smart Library Seat Recommendation System Using IoT (Patent Filed)  
+Smart Library Seat Recommendation System Using IoT (Paper Published)  
 **Stack:** Android Studio, Java, Embedded C, Firebase, ESP32, Git.
 
 ---
 
 ## 📜 Patent Work
 
-- StudySpotVIT-Smart Library Seat Recommendation System Using IoT -- **Published** 
+- StudySpotVIT-Self-Learned Smart Library Seat Recommendation System Using IoT -- **Published** 
 - Biometric Trust-Based System for Secure Operation of Projection Devices - **Published**
 ---
 
